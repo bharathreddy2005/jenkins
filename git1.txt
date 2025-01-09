@@ -1,0 +1,3 @@
+In Ubuntu terminal Switch to root user :
+Restart the system after ubuntu installation is completed
+exit from root user by typing exit
